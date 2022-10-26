@@ -778,7 +778,7 @@ const strategies = {
   'clqdr-balance-with-lp': clqdrBalanceWithLp,
   spreadsheet,
   anchorage,
-  'ninechronicles-staked-and-dcc': ninechroniclesStakedAndDcc,
+  'ninechronicles-staked-and-dcc': ninechroniclesStakedAndDcc
 };
 
 Object.keys(strategies).forEach(function (strategyName) {

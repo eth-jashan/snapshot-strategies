@@ -11,6 +11,7 @@
     "noImplicitAny": false,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true
+    // "esModuleInterop": true
   },
   "include": ["src"],
   "files": ["./src/typings.d.ts"]
