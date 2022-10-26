@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "rep3-badges",
+      "params": {
+        "symbol": "REP-3",
+        "rep3ContractAddress": "0x959a3e7e2ea1ea56c9127ae9ed271ede495d145f",
+        "erc20Token": "0x959a3e7e2ea1ea56c9127ae9ed271ede495d145f",
+        "erc20-dao-symbol": "SHAI",
+        "erc-20-dao-decimal": 18,
+        "specs": [
+          {
+            "type": 0,
+            "level": 1,
+            "weight": 5
+          },
+          {
+            "type": 0,
+            "level": 2,
+            "weight": 10
+          },
+          {
+            "type": 0,
+            "level": 3,
+            "weight": 15
+          },
+          {
+            "type": 1,
+            "weight": 2
+          }
+        ]
+      }
+    },
+    "network": "80001",
+    "addresses": [
+      "0xbb9ecfd5685502977b5b7c1ac0cdff8c136a4da8",
+      "0x33d0bbd05cf3c7e040d33bc1f338585a087e5dd9",
+      "0x0F1c502d4EF5b1940a7A77062e51353D8B366547"
+    ],
+    "snapshot": 7509588
+  }
+]

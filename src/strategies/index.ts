@@ -388,7 +388,6 @@ import * as ninechroniclesStakedAndDcc from './ninechronicles-staked-and-dcc';
 import * as spreadsheet from './spreadsheet';
 import * as anchorage from './anchorage';
 
-
 const strategies = {
   'forta-shares': fortaShares,
   'ethermon-erc721': ethermon721,
